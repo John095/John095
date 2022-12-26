@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Ndirangu</h1>
 <h3 align="center">A passionate frontend developer from Kenya.</h3>
-<img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width='400' alt="" />
+<img align='right' src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width='400' alt="" />
 
 
 - 🔭 I’m currently working on [Ubunifu Devs Website](ubunifucollege.com)
