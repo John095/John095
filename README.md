@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node JS, Test Automation**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-main-2164c.web.app](https://portfolio-main-2164c.web.app)
+- 👨‍💻 All of my projects are available at [https://john-ndirangu.netlify.app/](https://john-ndirangu.netlify.app/)
 
 - 💬 Ask me about **react js, js, html, tailwind css**
 
