@@ -3,13 +3,13 @@
 <img align='right' src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width='400' alt="" />
 
 
-- 🔭 I’m currently working on [Ubunifu Devs Website](ubunifucollege.com)
+- 🔭 I’m currently working on [PolyCrest Website](https://polycrest.africa/)
 
 - 🌱 I’m currently learning **Node JS, Test Automation**
 
 - 👨‍💻 All of my projects are available at [my website](https://john-ndirangu.netlify.app/)
 
-- 💬 Ask me about **react js, js, html, tailwind css**
+- 💬 Ask me about **react js, js, html, tailwind css, docker, kubernetes, gitlab **
 
 - 📫 How to reach me **ndiranguouma@outlook.com**
 
