@@ -1,31 +1,74 @@
-<h1 align="center">Hi 👋, I'm John Ndirangu</h1>
-<h3 align="center">A passionate frontend developer from Kenya.</h3>
-<!-- <img align='right' src="[https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif](https://www.palo-it.com/hubfs/Infinito_DevOps_2-2.gif)" width='400' alt="" /> -->
-<img align='right' src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width='400' alt="" />
+# Hi, I'm John Ndirangu 👋
 
+## 🚀 DevOps / AWS Cloud Engineer
 
-- 🔭 I’m currently working on [PolyCrest Website](https://polycrest.africa/)
+I am a **DevOps Consultant and AWS Cloud Engineer** with expertise in cloud computing, infrastructure automation, CI/CD pipelines, and web development. I have a strong background in cloud architecture, AWS services, and teaching technical concepts, and I am passionate about promoting DevOps culture, automating processes, and optimizing systems.
 
-- 🌱 I’m currently learning **Node JS, Test Automation**
+---
 
-- 👨‍💻 All of my projects are available at [my website](https://john-ndirangu.netlify.app/)
+### 🔧 **Tech Stack and Skills**
 
-- 💬 Ask me about **react js, js, html, tailwind css, docker, kubernetes, gitlab **
+- **Cloud & DevOps Tools**:  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible)
 
-- 📫 How to reach me **ndiranguouma@outlook.com**
+- **Programming Languages**:  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
-- ⚡ Fun fact **I love sports**
+- **Frameworks & Libraries**:  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/john095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="john095" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/john-ndirangu-734132194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-ndirangu-734132194" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/john095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="john095" height="30" width="40" /></a>
-</p>
+- **Automation & CI/CD**:  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john095&show_icons=true&locale=en&layout=compact" alt="john095" /></p>
+### 📚 **Experience**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john095&" alt="john095" /></p>
+#### **DevOps Consultant | Cloud Engineer**  
+*Freelance - Remote (March 2024 – Current)*  
+- Promoting DevOps adoption and process improvements across organizations.  
+- Building CI/CD pipelines, automating deployments, and reducing time-to-market for applications.  
+- Expertise in AWS cost optimization, cloud resource management, and performance tuning.
+
+#### **Web Development Mentor / Instructor**  
+*GOMYCODE Kenya (January 2024 – Current)*  
+- Mentoring students in web development concepts, tailoring instruction based on individual needs, and helping them achieve their learning goals.
+
+#### **Freelance Web Developer**  
+*Untold Technologies - Remote (November 2021 – Current)*  
+- Developing and optimizing responsive web applications for clients, with a focus on performance and user experience.
+
+#### **Web Developer / Instructor**  
+*Ubunifu College (July 2022 – January 2023)*  
+- Taught HTML, CSS, and JavaScript fundamentals, and contributed to product design and website projects.
+
+---
+
+### 🎓 **Education & Certifications**
+
+- **AWS Certified Solutions Architect – Associate**  
+  (AWS/ALX, October 2023 – February 2024)
+- **AWS Certified Cloud Practitioner**  
+  (AWS/ALX, September 2023 – October 2023)
+- **Full-Stack JavaScript Development**  
+  (Ubunifu College, October 2021 – January 2022)
+
+---
+
+### 🌱 **What I’m Currently Learning**
+
+- Advanced cloud architecture design with AWS.  
+- Exploring deeper integrations with containerization (Docker, Kubernetes) and automation tools like Terraform and Ansible.
+
+---
+
+### 💡 **Let’s Connect!**
+
+- **Portfolio**: [john-ndirangu.dev](https://john-ndirangu.dev)  
+- **LinkedIn**: [John Ndirangu](https://www.linkedin.com/in/john-ndirangu-734132194)  
+- **GitHub**: [John095](https://github.com/John095)  
+- **Email**: johnouma095@gmail.com
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or have a project in mind!
+
+---
